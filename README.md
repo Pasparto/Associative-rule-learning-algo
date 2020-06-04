@@ -1,2 +1,2 @@
 # Associative-rule-learning-
-Introducing to big data - exercise 2
+Introducing to big data - second exercise
