@@ -1,4 +1,4 @@
-# Associative-rule-learning-
+# Associative-rule-learning
 Introducing to big data - second exercise
 
 In this exercise we implemented associative rule algorithm using python on spark (pyspark).
