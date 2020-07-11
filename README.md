@@ -1,7 +1,7 @@
 # Associative-rule-learning
-Introducing to big data - second exercise
+Introducing to big data
 
-In this exercise we implemented associative rule algorithm using python on spark (pyspark).
-You can see the final analysis inside Exercise 2.pdf
+Implemented associative rule algorithm using Pyspark.
+You can see the final analysis inside "Associative rule learning - Real People Queries" file
 
-Tags: #Dataframe, #pandas, #associative_rule_learning
+Tags: Pyspark, RDD, associative rule learning 
