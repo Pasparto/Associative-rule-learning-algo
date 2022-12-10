@@ -42,6 +42,7 @@ Once all of the dependencies have been installed, you should be able to run the 
 ## Tests
 The following is an example of a test written in Python for the Associative Rule Learning Algorithm repository:
 
+```
 import unittest
 from associative_rule_learning import Apriori
 
@@ -60,7 +61,7 @@ class TestApriori(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
+```
 
 
 
