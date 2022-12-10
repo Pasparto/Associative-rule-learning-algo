@@ -57,9 +57,10 @@ class TestApriori(unittest.TestCase):
         model.fit(X, y)
         # Check that the model has been successfully fitted
         self.assertTrue(model.fitted)
-
 if __name__ == '__main__':
     unittest.main()
+
+
 
 
 Tags: Pyspark, RDD, associative rule learning, FP-Growth algorithm, Apriori algorithm
