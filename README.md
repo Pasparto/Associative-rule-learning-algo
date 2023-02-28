@@ -1,5 +1,5 @@
-# Repository Name
-Associative-rule-learning-algo
+# Associative rule learning algorithm
+
 
 ## Description
 The Associative Rule Learning Algorithm repository is a machine learning library written in Python. It is designed to help users build models that can accurately predict outcomes based on input data. The library provides a variety of different algorithms and tools for associative rule learning, such as the Apriori algorithm and the FP-Growth algorithm. The library also includes tools for data pre-processing and post-processing, such as feature selection and hyperparameter optimization. It is well-suited for both supervised and unsupervised learning tasks.
